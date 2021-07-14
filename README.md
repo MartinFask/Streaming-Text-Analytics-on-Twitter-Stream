@@ -1,7 +1,5 @@
 # Streaming-Text-Analytics-on-Twitter-Stream
 
-----------------------------------------------------------------------------------------
-
 Execution: We have implemented the post processing batch analysis method, where we read the data from file and plot it. 
 
 Steps to run part A
